@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
+* Student Name: Le Bui Huy Hoang
+* Student ID: BI12-174
 * Student Group ID: Not-for-now
