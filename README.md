@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Le Bui Huy Hoang
 * Student ID: BI12-174
-* Student Group ID: Not-for-now
+* Student Group ID: 16
